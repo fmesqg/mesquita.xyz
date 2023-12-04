@@ -1,0 +1,13 @@
+theme: minima
+
+minima: 
+  skin: solarized
+
+header_pages:
+  - links.md
+  - açores.md
+  - blog.md
+  
+plugins:
+  - jekyll-feed
+
