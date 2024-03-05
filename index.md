@@ -1,5 +1,5 @@
 ---
-title: FMG
+title: /
 layout: default
 ---
 
@@ -13,7 +13,7 @@ I complain all of the time — we all need a hobby. That does not mean i do not 
 
 I work as a software engineer (or something along those lines). I am most interested in wealth: its distribution and the politics that go with it (well, and my own, if i'm being honest).
 
-Azorean first — living happily in exile in Lisbon. 
+Azorean living happily in exile in Lisbon.
 
 ## Effective Altruism
 
@@ -40,6 +40,7 @@ I would much like to see rich countries lowering the taxes for those that earn/h
 
 I have gathered [here](https://mesquita.xyz/links) some ((exclusively) external) content on economics and politics. I'm aware french economists are very much over-represented. While i really appreciate their work, i'll try and expand this list with additional interesting material coming from other parts of the globe. Please do share with me other bodies of work you recommend!
 
+I am a member of [Bloco de Esquerda](https://www.bloco.org/). Whatever your political inclinations, I urge you to join a political party — there's plenty to do and not enough people take up their civic duty, in my opinion.
 
 ## Internet Usage
 I consider the internet to be absolutely amazing.
@@ -50,9 +51,10 @@ What i wrote above applies to Instagram and many other applications. To make mat
 Yes, these platforms do have some great content. But the content is platform-independent. All this amazing technology does not come coupled with predatory practices - some businesses just decide to make it look like an inevitability.
 I use [Signal](https://signal.org/) exclusively for messaging. It is open source (anyone can inspect the code and many have - there are no hidden procedures) and, frankly, an amazing app functionally equivalent to Whatsapp.
 
+[“Once the technology is in place, there will always be the temptation to use it. And it is poor civic hygiene to install technologies that could someday facilitate a police state.”](https://www.schneier.com/essays/archives/2013/07/mission_creep_when_e.html)
+
 ---
 Feel free to drop me an email at f at mesquita dot xyz. Or get creative: anything at mesquita dot xyz gets through to me.
-PGP key: [2D44 D461 359F 5047](https://pgp.mit.edu/pks/lookup?op=get&search=0x2D44D461359F5047)
 
 ## Have a great day!
-(last update: 2023.11.01)
+(last update: 2024.01.05)

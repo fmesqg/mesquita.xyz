@@ -23,6 +23,7 @@ permalink: /links
 * Branko Milanovic - How to Fix Democracy ([spotify](https://open.spotify.com/episode/1x9C8OPQK6vVEv3lKmjBkk))
 * Esther Duflo and Abhijit Banerjee - Good Economics for Hard Times ([spotify](https://open.spotify.com/episode/3J6V5R4PP2W1PQJ4lwlFmj))
 * [Contra-regra (PT)](https://contraregra.pt/)
+* [FFMS PLAY (PT/EN)](https://ffms.pt/pt-pt/ffms-play)
 * [45 graus podcast (PT)](https://45graus.parafuso.net/)
 * [Os 230 (PT)](https://www.os230.pt/) ([spotify](https://open.spotify.com/show/7uZb9ctuwZkFXKYc5gdteJ))
 

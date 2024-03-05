@@ -10,4 +10,8 @@ header_pages:
   
 plugins:
   - jekyll-feed
-
+author:
+  name : "Francisco Mesquita"
+  email: "f [at] mesquita {dot} xyz"
+title: Mesquita
+description: "Repository of misc."
