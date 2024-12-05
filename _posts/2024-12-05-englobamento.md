@@ -25,4 +25,4 @@ A possibilidade de não-englobamento é uma medida injustificável: beneficia _i
 
 Por sua vez, a IL e o CH têm outros planos: votaram favoravelmente a [proposta](https://app.parlamento.pt/webutils/docs/doc.pdf?Path=f%2bhOQrIYCcgMVYR2ibOwKXBdJuj8zknMxcuv6F%2f8eK3tkD1Lclg%2fzo1YYqNtyWBsHEltP1Y5SyYgeEkwnWp7iHZLZIMGmJt2qCMxN4rE4skr34lSqQ7ssT3WPNyQ93qxLTbs3YqBUrm%2fDsLrzAKCcfxBpxuALyf%2fIeG1y8G9IzXe2bzQmnmzV1CSJGMLx%2bklwOM0DCyk8OPqO9s0UerlSDmp7TqCSEF75EAdwYnBBw%2fk25T9hSus6WbQ20SldWUYeMlrVq7Kk1CkuIxgXMdOxCJe9p7kwqIygMJZTCmxPmtLXlqlScT850v0ZjMnXkuKhohWdB8wQTRh2aAgv6v19BreTiR8VrRAR3EbTgqc%2fZA%3d&Fich=cadd4cbd-0e6d-4fa9-968d-10fab3676462.pdf&Inline=true) de expandir o regime de não-englobamento de modo a incluir mais-valias resultantes de valores mobiliários detidos por menos de um ano. Isto é, querem estender a quem especula a curto-prazo as benesses que os herdeiros e especuladores de médio-prazo têm — mas que nunca estarão acessíveis aos trabalhadores.
 
-Que escrevam isso nas suas próximas tarjas.
+Escrevam isso nas próximas tarjas.
