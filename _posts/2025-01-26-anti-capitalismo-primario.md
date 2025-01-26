@@ -1,7 +1,7 @@
 ---
-date: 2025-01-26
-title: [draft] Anti-capitalismo primário
 layout: default
+date: 2025-01-26
+title: "[draft] Anti-capitalismo primário"
 ---
 # [draft] Anti-capitalismo primário
 
@@ -13,7 +13,7 @@ todo, o verbo certo — mais dinheiro . Trata-se de um verdadeiro _almoço grát
 quem o tem.  O reverso da medalha? Alguém terá preparar o banquete,
 servi-lo e lavar a loiça — sem receber por isso.
 
-Assim, procurarei analisar as consequências decorrentes de _o dinheiro render mais dinheiro_ — 
+Assim, procurarei analisar as consequências decorrentes de _o dinheiro render mais dinheiro_ —
 isto é, das taxas de retorno da generalidade dos investimentos ultrapassarem, em muito,
 aquelas que seriam necessárias para que o risco valesse a pena.
 
@@ -55,14 +55,15 @@ construção nossa, que até trouxe vantagens relativamente ao sistema
 que o antecedeu em Portugal. Mas tem problemas fundamentais, que se
 foram exacerbando com o decorrer do tempo — o que era previsível
 tendo em conta o seu funcionamento — e com a substituição de um
-capitalismo "democrático" pós-guerra pelo capitalismo selvagem dos
-anos 80. Urge por em prática um sistema melhor.
+capitalismo "democrático" pós-guerra pelo capitalismo selvagem que se seguiu.
+
+Urge por em prática um sistema melhor.
 
 Na procura de exemplos quotidianos que possam guiar uma economia de futuro,
 o primeiro que me ocorre é o Caldeirão do Corvo. Tanto quanto sei ,
 o gado corvino é mantido na zona do Caldeirão — existindo até uma
 barreira física na estrada para que os bichos não venham fazer visitas
 à vila sem convite. O Caldeirão é uma terra sem amos, isentando quem
-tem gado de pagar renda.  Trata-se de uma bonita auto-organização
-comunitária, livre do parasitismo.  Há muitos outros exemplos, e que
+tem gado de pagar renda.  Trata-se de uma auto-organização
+comunitária, livre deste parasitismo.  Há muitos outros exemplos, e que
 amanhã hajam muitos muitos, muitos mais!

@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2024-12-31
-title: [draft] A criação de valor
+title: "[draft] A criação de valor"
 ---
 
 # [draft] A criação de valor
