@@ -1,9 +1,9 @@
 ---
 layout: default
 date: 2025-01-26
-title: "[draft] Anti-capitalismo primário"
+title: "[draft] Renda para toda a gente"
 ---
-# [draft] Anti-capitalismo primário
+# [draft] Renda para toda a gente
 
 Recentemente, deparei-me com um _placard_ publicitário de uma plataforma
 de investimentos financeiros. O _slogan_ era _"Onde o seu dinheiro
@@ -57,14 +57,8 @@ construção nossa, que até trouxe vantagens relativamente ao sistema
 que o antecedeu em Portugal. Mas tem problemas fundamentais, que se foram
 exacerbando com o decorrer do tempo — o que era previsível tendo em
 conta o seu funcionamento — e com a substituição de um capitalismo
-"democrático" pós-guerra pelo capitalismo selvagem que se seguiu.
+"moderado" pós-guerra pelo capitalismo selvagem que se seguiu.
 
-Urge pôr em prática um sistema melhor.
+Urge ir pondo em prática um sistema melhor: um em que os ganhos de produtividade que advêm do capital resultam na melhoria das condições de vida de todos; em que o direito que toda a gente tem a uma vida digna — com educação, saúde e habitação — se sobrepõe ao direito a ter um _mega-iate_. 
 
-Uma alternativa passa pela redistribuição efetiva do capital. Se
-redistribuíssemos o capital nacional uniformemente, todos tirariam
-igual proveito do retorno do capital. Em vez disso, sugiro apenas que
-todos começemos do mesmo ponto. Tal seria atingível através de uma
-dotação significativa aquando da passagem à maioridade. Como financiar
-esta medida? Com um imposto progressivo sobre o capital e heranças,
-naturalmente.
+Caminharemos nesse sentido redistribuindo, pacífica e democraticamente, o capital. O foco deve estar no património de quem, servindo-se do trabalho de outrem e dos recursos de todos, acumulou mais de mil milhões de euros.
