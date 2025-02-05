@@ -1,9 +1,3 @@
----
-layout: default
-date: 2024-12-31
-title: "Economia: tomar a parte pelo todo"
----
-
 # Economia: tomar a parte pelo todo
 
 Existe uma narrativa instalada que deve ser desmontada: a de que as empresas são o verdadeiro — ou até mesmo o único — motor de criação da riqueza. A verdade é que o valor é produzido pelas pessoas — trabalhem elas por conta própria ou por conta de outrem; no setor privado ou no público; ou mesmo que estejam reformadas ou desempregadas. Normalmente, onde há gente a trabalhar — seja numa empresa privada, numa cooperativa, no setor público, ou na própria casa — há riqueza a ser criada.
