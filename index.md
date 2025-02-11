@@ -11,6 +11,7 @@ layout: default
 {% assign combined_items = site.posts | concat: site.shorts %}
 {% assign sorted_items = combined_items | sort: 'date' | reverse %}
 {% for post in sorted_items limit:6 %}
+{% unless post.draft %}
   {% if post.sitemap != false and post.date and post.title %}
 
     {% capture post_url %}
@@ -24,6 +25,7 @@ layout: default
 * {{ post.date | date: "%Y-%m-%d" }}: [{{ post.title | xml_escape }}]({{ post_url | strip }})
 
   {% endif %}
+{% endunless  %}
 {% endfor %}
 
 ## Politics and Economics

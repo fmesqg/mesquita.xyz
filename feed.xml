@@ -15,6 +15,7 @@ layout: null
     {% assign sorted_items = combined_items | sort: 'date' | reverse %}
 
     {% for post in sorted_items limit:20 %}
+    {% unless post.draft %}
     {% if post.sitemap != false and post.date and post.title %}
 
     {% capture post_url %}
@@ -36,6 +37,8 @@ layout: null
       </item>
 
   {% endif %}
+{% endunless %}
+
 {% endfor %}
 
   </channel>
