@@ -7,7 +7,7 @@ header_pages:
   - links.md
   # - açores.md
   - blog.md
-  # - atualidade.md
+  - atualidade.md
   
 plugins:
   - jekyll-feed
@@ -18,3 +18,5 @@ title: Mesquita
 description: "Repository of misc."
 collections:
   shorts:
+  posts:
+    permalink: /:title

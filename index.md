@@ -8,24 +8,22 @@ layout: default
 
 ## Latest from [Blog](/blog)
 
-{% assign combined_items = site.posts | concat: site.shorts %}
-{% assign sorted_items = combined_items | sort: 'date' | reverse %}
+{% assign sorted_items = site.posts | sort: 'date' | reverse %}
 {% for post in sorted_items limit:6 %}
 {% unless post.draft %}
-  {% if post.sitemap != false and post.date and post.title %}
 
-    {% capture post_url %}
-      {% if post.collection == "posts" %}
-        {{ post.url }}
-      {% else %}
-        {{ post.link }}
-      {% endif %}
-    {% endcapture %}
+* {{ post.date | date: "%Y-%m-%d" }}: [{{ post.title | xml_escape }}]({{ post.url | strip }})
 
-* {{ post.date | date: "%Y-%m-%d" }}: [{{ post.title | xml_escape }}]({{ post_url | strip }})
-
-  {% endif %}
 {% endunless  %}
+{% endfor %}
+
+## Latest from [Atualidade](/atualidade)
+
+{% assign sorted_items = site.shorts | sort: 'date' | reverse %}
+{% for post in sorted_items limit:5 %}
+
+* {{ post.date | date: "%Y-%m-%d" }}: [{{ post.title | xml_escape }}]({{ post.link | strip }})
+
 {% endfor %}
 
 ## Politics and Economics

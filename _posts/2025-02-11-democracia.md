@@ -1,10 +1,8 @@
 ---
-layout: default
-date: 2025-02-11
-title: "[draft] Democracia"
+layout: post
+title: Democracia
 draft: true
 ---
-# [draft] Democracia 
 
 Isto tem muitas falhas e precisa de levar uma volta. A boa noticia e que nao e a
 primeira vez que tal acontece e as coisas vao mudando.

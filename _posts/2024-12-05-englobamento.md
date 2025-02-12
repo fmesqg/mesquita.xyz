@@ -1,9 +1,9 @@
 ---
-layout: default
-date: 2024-12-05
-title: "Englobamento no Orçamento do Estado "
+layout: post
+date: 2024-12-19
+title: Englobamento no Orçamento do Estado
+ao: true
 ---
-# Englobamento no Orçamento do Estado 
 
 A elaboração do Orçamento do Estado revela muito mais sobre os partidos do que qualquer _soundbite_, debate-relâmpago ou tarja-circense. As posições das várias forças políticas ficam particularmente evidentes aquando das votações das propostas de alteração.
 

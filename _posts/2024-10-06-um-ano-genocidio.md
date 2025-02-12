@@ -1,10 +1,9 @@
 ---
-layout: default
-title: "Um ano de genocídio, após décadas de ocupação"
+layout: post
+title: Um ano de genocídio, após décadas de ocupação
 date: 2024-10-10
+ao: true
 ---
-
-# Um ano de genocídio, após décadas de ocupação
 
 Foi há cerca de um ano que o Hamas massacrou várias centenas de civis israelitas. A 7 de outubro, sucederam-se os ataques horrorosos e várias pessoas foram capturadas e tornadas reféns.
 

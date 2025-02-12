@@ -1,10 +1,9 @@
 ---
-layout: default
-date: 2025-01-21
-title: "Anti-sistema, ou anti-decência?"
+layout: post
+date: 2025-01-23
+title: Anti-sistema, ou anti-decência?
+ao: true
 ---
-# Anti-sistema, ou anti-decência?
-
 __1. CHEGA__
 
 Os Açores fazem-se representar na Assembleia da República por cinco deputados — todos homens.
