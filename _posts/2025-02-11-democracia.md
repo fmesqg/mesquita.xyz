@@ -1,57 +1,79 @@
 ---
+
 layout: post
-title: Democracia
+
+title: É hora de aproveitar as crises
+
 draft: true
+
 ---
 
-Isto tem muitas falhas e precisa de levar uma volta. A boa noticia e que nao e a
-primeira vez que tal acontece e as coisas vao mudando.
+Parece-me que vivemos numa época de duas crises, que estão relacionadas:
+a do sistema económico e a do sistema político.  Se é verdade que
+devemos sempre fazer por aproveitar _uma boa crise_, o que dizer de duas?
 
-Churchill disse, em 1947, que a democracia é a "pior forma de governo, exceto todas as
-outras que foram tentadas". Na década de 1960, algo semelhante poderia ser dito
-relativamente ao _fax_: foi "a pior maneira de transmitir documentos a longas
-distâncias, exceto aquelas antes tentadas". Ser o melhor que até agora se
-conseguiu deve servir para evitar retrocessos, sejam eles sinais de fumo ou
-monarquias absolutas. Não deve nunca ser usado como argumento para que se deixe
-de inovar.
+É patente um descontentamento das pessoas em geral com o contexto
+em que vivem.  Apesar de todo o progresso tecnológico, há décadas
+que a maioria da população ocidental não beneficia de um aumento
+significativo de rendimentos, conforme demonstrado por Alvaredo e
+co-autores em _The elephant curve of global inequality and growth_.
 
-A própria noção de "democracia" não é estanque. Não deixa de ser curioso que
-esta frase de Churchill tenha sido proferida no contexto de uma monarquia - algo
-que me parece pouco democrático. Com efeito, vigoram hoje (em algumas partes do
-mundo) formas de governo bem mais democráticas e positivas que aquelas que o
-próprio experienciou durante a sua vida.
+Este esgotamento do sistema económico vigente tem criado muita
+frustração e está a precipitar o extenuamento do nosso sistema
+político. Por sua vez, é o sistema político determina o sistema
+económico. Não obstante esta inter-dependência, focar-me-ei hoje na
+política, deixando uma análise ao capitalismo para outra oportunidade.
 
-Infelizmente, parece-me que vivemos num sistema pouco democrático. Se formos à
-etimologia da palavra, _democracia_ significa o governo pelas pessoas, pelo
-povo. Quando a participação política das pessoas se tende a reduzir ao desenho
-de meia-dúzia de cruzes em boletins de votos a cada ciclo de quatro ou cinco anos,
-faz sentido falar em _democracia_? E quando metade das pessoas nem a cruz faz?
-Quando, dos que a fazem, uns votam branco, outros nulo e outros votam
-_é-agora-que-eles-vão-ver,-estes-políticos-são-todos-iguais!_?
+Existem vários sintomas de que a sociedade está muito pouco empenhada
+nas suas responsabilidades cívicas. Atualmente, a participação
+política das pessoas tende a reduzir-se a meia-dúzia de idas
+às urnas, a cada ciclo de quatro ou cinco anos. Isto, para a
+metade que lá se dirige. Destes, uns nem se dão ao trabalho
+de desenhar uma cruzinha, outros dão asas à imaginação com
+rabiscos originais (ou nem tanto...), e há ainda quem opte por votar
+_é-agora-que-eles-vão-ver,-estes-políticos-são-todos-iguais!_.
 
-Existem outros sintomas que me fazem crer que este modo de organização da
-sociedade está esgotado, a começar pela não-distribuição da riqueza. É crível
-que a maioria das pessoas, que não tem praticamente nada, considere que o que
-faz sentido é não ter praticamente nada? Que se está bem assim, num país onde o
-percentil mais rico tem 300x mais que elas? Onde há quem ganhe num dia o que
-elas ganham num ano?
+Existem outros sintomas que me fazem crer que este modo de organização
+da sociedade está esgotado, a começar pela não-distribuição da
+riqueza. É crível que a maioria das pessoas, que não tem praticamente
+nada, considere que o que faz sentido é não ter praticamente nada? Que
+se está bem assim, num país onde o percentil mais rico tem 300x mais
+que elas? Onde há quem ganhe num dia o que elas ganham num ano?
 
-Será a vigencia de um sistema verdadeiramente democrático compatível com a
-existência de um grupo reduzido de super-ricos a quem tudo é permitido? Ainda
-este mês, ficámos a saber que os cerca de 150 jatos privados registados em
-Portugal poluem anualmente o equivalente a 140 mil portugueses (mais que a
-população da ilha de São Miguel. Num mundo altamente globalizado, não há muito
-que impeça que alguém compre uma ilha açoriana, à semelhança do que aconteceu em
-Lanai, no Havaí. Esta ilha, com uma população residente de mais de 3 mil
-pessoas, e com uma área comparável à da ilha Terceira, é hoje detida em 98% por
-uma única pessoa.
+Será a vigencia de um sistema verdadeiramente democrático compatível
+com a existência de um grupo reduzido de super-ricos a quem tudo é
+permitido? Ainda este mês, ficámos a saber que os cerca de 150 jatos
+privados registados em Portugal poluem anualmente o equivalente a 140
+mil portugueses (mais que a população da ilha de São Miguel). Num
+mundo altamente globalizado, não há muito que impeça que alguém
+compre uma ilha açoriana, à semelhança do que aconteceu em Lanai, no
+Havaí. Esta ilha, com uma população residente de mais de 3 mil pessoas,
+e com uma área comparável à da ilha Terceira, é hoje detida em 98%
+por uma única pessoa.
 
-Um outro argumento prende-se com o controlo dos orgãos de comunicação por parte
-de um bilionário ou de um grupo restrito de pessoas.
+Um outro argumento prende-se com o controlo dos orgãos de comunicação
+por parte de um bilionário ou de um grupo restrito de pessoas.
 
-Sendo necessário um sistema muito mais democrático, por onde começar? É preciso
-tempo para que se possa estar devidamente informado, para que se possa
-participar ativamente na vida comunitária. É preciso uma escola que capacite os
-seus alunos a pensar criticamente. É necessário investir nas pessoas.
+Se formos à etimologia da palavra, _democracia_ significa o governo
+pelas pessoas, pelo povo. Tendo em conta estes sintomas, parece-me que
+vivemos num sistema pouco democrático e, consequentemente, esgotado.
 
+Bem sei que a democracia é a "pior forma de governo, exceto todas
+as outras que haviam sido tentadas". Mas o conceito de democracia
+não é estanque, e existem hoje regimes bem mais democráticos que
+aquele em que Churchill proferiu a sua famosa frase. Assim, os melhores
+regimes do passado devem ser os limites mínimos que estamos dispostos a
+aceitar. Devem servir para evitar retrocessos a totalitarismos, e nunca
+como argumento de que existe ou existiu uma solução acabada.
 
+Sendo necessário um sistema muito mais democrático, por onde começar?
+A resposta óbvia é "por aquilo que está no nosso controlo", ou seja,
+por nós próprios. Por ouvir mais, por ouvir melhor, por ouvir diferente;
+por refletir criticamente; e por discutir - mais no café do que nas
+redes dos bilionários.
+
+Faz-se tarde. Lutemos - hoje e amanhã - pela democracia.
+
+_Sejamos muitos, muitas mil_
+
+_Para continuar Abril!_
