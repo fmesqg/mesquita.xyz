@@ -36,9 +36,9 @@ inteiro de trabalho.
 
 O caso é mais extremo no que toca à distribuição da riqueza — o que
 é expectável, dado que só se poupa quando se tem folga. Com efeito,
-o _top_ 1% mais rico tem 25% da riqueza nacional, enquanto toda metade
-menos afortunada _junta_ não chega aos 4%. Feitas as contas, um rico
-possui mais de 300 vezes o património de alguém dessa metade.
+o _top_ 1% mais rico tem 25% da riqueza nacional, enquanto _toda_ a metade
+menos afortunada detém menos de 4%. Feitas as contas, um rico
+possui mais de 300 vezes o património de alguém desta metade.
 
 Há que notar que o _top_ 1% mais rico está longe de ser um grupo
 homogéneo. Para entrar neste grupo, [é necessário um milhão de
@@ -64,10 +64,10 @@ uma influência desmedida e que tudo lhes seja permitido. Ainda
 neste mês, ficámos a saber que [os cerca de 150 jatos
 privados registados em Portugal poluem anualmente o equivalente a 140 mil
 portugueses](https://www.esquerda.net/artigo/emissoes-poluentes-dos-jatos-privados-portugueses-equivalem-de-141-mil-pessoas/93824)
-(mais que a população da ilha de São Miguel).
+— mais que a população da ilha de São Miguel.
 
-Para além disso, devemos ter em conta que atualmente, não há muito
-que impeça que alguém compre uma ilha açoriana, à semelhança do que
+Para além disso, devemos ter em conta que, atualmente, não há muito
+que impeça a compra de uma ilha açoriana, à semelhança do que
 [aconteceu em Lanai, no Havaí](https://en.wikipedia.org/wiki/Lanai). Esta
 ilha, com uma população residente de mais de 3 mil pessoas, e com
 uma área comparável à da ilha Terceira, é hoje detida em 98% por
