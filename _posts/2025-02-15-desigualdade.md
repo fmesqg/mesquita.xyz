@@ -1,13 +1,8 @@
 ---
-
 layout: post
-
 title: A concentração da riqueza em Portugal
-
-draft: true
-
-show_wip: true
-
+ao: true
+date: 2025-02-20
 ---
 
 Vivemos numa época de duas crises, que estão relacionadas: uma
