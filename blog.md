@@ -3,20 +3,21 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
+{% assign drafts = site.posts | where: "draft", true | where: "show_wip", true | sort: "date" | reverse %}
+{% if  drafts.size > 0 %}
 
 ## Esboços (comentários bem-vindos):
 
 <ul>
 
-{% for post in site.posts %}
-{% if post.draft and post.show_wip %}
+{% for post in drafts %}
     <li>
       <a href="{{ post.url }}">{{ post.date | date: "%Y-%m-%d" }} - {{ post.title }}</a>
     </li>
-{% endif %}
 
   {% endfor %}
 </ul>
+{% endif %}
 
 ## Texto publicados no Açoriano Oriental:
 
